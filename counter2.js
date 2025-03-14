@@ -20,6 +20,3 @@ const resetCounter=()=>{
 plusBtn.addEventListener("click", addToCounter)
 minusBtn.addEventListener("click",minusToCounter)
 resetBtn.addEventListener("click",resetCounter)
-// git add --all
-// git commit -m "Describe the update"
-// git push
